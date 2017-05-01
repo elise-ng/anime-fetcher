@@ -9,5 +9,5 @@ This script is for searching new episodes on dmhy.org and open magnet links auto
 - Script is written for mac os platform with Transmission installed. Other clients like uTorrent might work if they support association with magnet url on OS level.
 - Script may be modified to support other platforms such as Windows.
 
-## Disclamer
+## Disclaimer
 - Downloading pirated anime is discouraged and may be a crime in your country. Do so at your own risk.
